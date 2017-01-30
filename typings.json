@@ -1,0 +1,7 @@
+{
+  "name": "hello-react",
+  "dependencies": {},
+  "globalDependencies": {
+    "axios": "registry:dt/axios#0.9.1+20170118180457"
+  }
+}
