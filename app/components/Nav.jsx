@@ -45,7 +45,7 @@ var Nav = React.createClass({
                                 <input type="Search" placeholder="Search city for weather "/>
                             </li>
                             <li>
-                                <button type="button" class="success button">Get Weather</button>
+                                <button type="button" className="button">Get Weather</button>
                             </li>
                         </ul>
                     </form>
